@@ -2,6 +2,6 @@
 <resources>
 
     <string name="app_name">Imgur with Volley</string>
-    <!--<string name="imgur_clientID">YOUR IMGUR CLIENT ID</string>-->
-    <string name="imgur_clientID">0b1d136262967c4</string>
+    <string name="imgur_clientID">YOUR IMGUR CLIENT ID</string>
+    <!--<string name="imgur_clientID">0b1d136262967c4</string>-->
 </resources>
